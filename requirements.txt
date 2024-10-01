@@ -1,0 +1,4 @@
+debugpy
+ptvsd
+pydevd
+testing
